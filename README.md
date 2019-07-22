@@ -24,6 +24,8 @@
 - The Web’s Secret Stories
 - 15 Views on a Node-Link Graph
 - Feltron Reports
+- http://worrydream.com/MediaForThinkingTheUnthinkable/
+- https://fathom.info/
 - Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods
 - Coordinated Highlighting in Context
  
