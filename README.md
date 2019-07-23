@@ -28,4 +28,6 @@
 - https://fathom.info/
 - Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods
 - Coordinated Highlighting in Context
+- https://flowingdata.com/about
+- https://www.interaction-design.org/literature/topics/gestalt-principles
  
