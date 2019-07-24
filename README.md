@@ -1,10 +1,11 @@
-## Data Sources
+## Datasets
 
 ### General
 - kaggle
 - [Google Public Data Explorer](https://www.google.com/publicdata/directory)
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 - [Google AI Datsets](https://ai.google/tools/datasets/)
+- https://datamade.us/
 
 ### Music
 - [chart data](https://chartdata.org/)
