@@ -31,4 +31,12 @@
 - Coordinated Highlighting in Context
 - https://flowingdata.com/about
 - https://www.interaction-design.org/literature/topics/gestalt-principles
+
+### Ref
+- http://polygraph.cool/
+- https://pudding.cool/
+- https://newsinitiative.withgoogle.com/training/
+- http://www.r2d3.us/
+- https://www.informationisbeautifulawards.com/
+- https://www.visualcinnamon.com/
  
