@@ -41,3 +41,5 @@
 - https://www.informationisbeautifulawards.com/
 - https://www.visualcinnamon.com/
  
+### jobs
+- https://www.datavisualizationsociety.com/find-a-job
