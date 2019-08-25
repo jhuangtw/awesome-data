@@ -15,6 +15,9 @@
 
 ## Data Viz
 
+### libs
+- https://github.com/timqian/chart.xkcd
+
 ### Books
 - Visual Display of Quantitative Information
 - Beautiful Visualization
