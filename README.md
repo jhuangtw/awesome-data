@@ -17,6 +17,7 @@
 
 ### libs
 - https://github.com/timqian/chart.xkcd
+- https://github.com/airbnb/visx
 
 ### Books
 - Visual Display of Quantitative Information
