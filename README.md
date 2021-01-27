@@ -8,6 +8,10 @@
 - https://datausa.io/
 - https://datamade.us/
 
+### Data for good
+- https://www.datakind.org/
+- https://www.usdigitalresponse.org/
+
 ### Music
 - [chart data](https://chartdata.org/)
 
